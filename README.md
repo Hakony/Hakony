@@ -3,9 +3,9 @@
 
 - 🌱 Atualmente estou aprendendo **React, vue e angular**
 
-- 💬 Me pergunte sobre: **react, vue, HTML, CSS, JS**
+- 💬 Me pergunte sobre **react, vue, HTML, CSS, JS**
 
-- 📫 Meu email é: **raphaalves44@gmail.com**
+- 📫 Meu email é **raphaalves44@gmail.com**
 
 - 📄 Saiba mais [https://www.linkedin.com/in/raphaell-alves/](https://www.linkedin.com/in/raphaell-alves/)
   
