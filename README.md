@@ -1,7 +1,7 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Raphael</h1>
 <h3 align="center">Um entusiasta no mundo da programação</h3></br>
 
-- 🌱 Atualmente estou aprendendo **react, vue e angular**
+- 🌱 Atualmente estou aprendendo **react e vue**
 
 - 💬 Me pergunte sobre **react, HTML, CSS e JS**
 
