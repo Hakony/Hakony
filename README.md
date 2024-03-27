@@ -1,13 +1,13 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Raphael</h1>
 <h3 align="center">Um entusiasta no mundo da programação</h3></br>
 
-- 🌱 Atualmente estou aprendendo **react e vue**
+- 🌱 Atualmente estou aprendendo **Reactjs e Vuejs**
 
-- 💬 Me pergunte sobre **HTML, CSS, JS**
+- 💬 Me pergunte sobre - **HTML, CSS, JS**
 
-- 📫 Meu email é **raphaalves44@gmail.com**
+- 📫 Meu email é - **raphaalves44@gmail.com**
 
-- 📄 Saiba mais [https://www.linkedin.com/in/raphaell-alves/](https://www.linkedin.com/in/raphaell-alves/)
+- 📄 Saiba mais - [https://www.linkedin.com/in/raphaell-alves/](https://www.linkedin.com/in/raphaell-alves/)
   
 - 🤝 Grato a qualquer dica
 
