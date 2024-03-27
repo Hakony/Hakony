@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **react e vue**
 
-- 💬 Me pergunte sobre **HTML, CSS, JS e REACT**
+- 💬 Me pergunte sobre **HTML, CSS, JS**
 
 - 📫 Meu email é **raphaalves44@gmail.com**
 
