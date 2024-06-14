@@ -1,9 +1,9 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Raphael</h1>
-<h3 align="center">Um entusiasta no mundo da programação</h3></br>
+<h3 align="center">Um entusiasta no mundo dos devs</h3></br>
 
-- 🌱 Atualmente estou aprendendo **Reactjs e Vuejs**
+- 🌱 Atualmente estou aprendendo **Reactjs, Vuejs, MongoDB e Express**
 
-- 💬 Me pergunte sobre - **HTML, CSS, JS**
+- 💬 Me pergunte sobre - **HTML, CSS, JS e NODE**
 
 - 📫 Meu email é - **raphaalves44@gmail.com**
 
