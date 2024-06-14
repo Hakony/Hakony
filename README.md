@@ -1,13 +1,11 @@
 <h1 align="center">Olá Mundo 👋, eu sou o Raphael</h1>
-<h3 align="center">Um entusiasta no mundo dos devs</h3></br>
+<h3 align="center">Um entusiasta no mundo do desenvolvimento web</h3></br>
 
 - 🌱 Atualmente estou aprendendo **Reactjs, Vuejs, MongoDB e Express**
 
 - 💬 Me pergunte sobre - **HTML, CSS, JS e NODE**
 
 - 📫 Meu email é - **raphaalves44@gmail.com**
-
-- 📄 Saiba mais - [https://www.linkedin.com/in/raphaell-alves/](https://www.linkedin.com/in/raphaell-alves/)
   
 - 🤝 Grato a qualquer dica
 
